@@ -232,7 +232,7 @@ div[data-testid="stProgressBar"] > div > div {
 }
 /* ── LARGE sentence text (key fix) ─────────────────────────────── */
 .card-sentence-text {
-    font-size: clamp(1.6rem, 6.5vw, 2.2rem);   /* ← was 1.2–1.7rem, now 1.6–2.2rem */
+    font-size: clamp(3.2rem, 15vw, 5.5rem);   /* ← was 1.2–1.7rem, now 1.6–2.2rem */
     font-weight: 700;
     color: #fff;
     line-height: 1.5;
